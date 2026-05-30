@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>For My Love ❤️</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: linear-gradient(to right, #ff9a9e, #fad0c4);
+            text-align: center;
+            padding: 50px;
+            color: white;
+        }
+
+        .card {
+            background: rgba(255,255,255,0.15);
+            padding: 30px;
+            border-radius: 20px;
+            max-width: 700px;
+            margin: auto;
+            backdrop-filter: blur(10px);
+        }
+
+        h1 {
+            font-size: 3em;
+        }
+
+        p {
+            font-size: 1.2em;
+            line-height: 1.8;
+        }
+
+        .heart {
+            font-size: 50px;
+            animation: beat 1s infinite;
+        }
+
+        @keyframes beat {
+            50% { transform: scale(1.2); }
+        }
+    </style>
+</head>
+<body>
+
+<div class="card">
+    <h1>To My Beautiful Girl ❤️</h1>
+
+    <div class="heart">❤️</div>
+
+    <p>
+        Every day with you feels special.
+        You make my life brighter, my heart happier,
+        and my future more beautiful.
+    </p>
+
+    <p>
+        Thank you for all the smiles, the care,
+        the love, and the memories we share.
+        No matter where life takes us,
+        you will always have a special place in my heart.
+    </p>
+
+    <h2>I Love You ❤️</h2>
+</div>
+
+</body>
+</html>
